@@ -5,8 +5,8 @@ seaborn
 scikit-learn
 missforest
 tabpfn
-shap
 scipy
+shap
 joblib
 openpyxl
 xgboost
