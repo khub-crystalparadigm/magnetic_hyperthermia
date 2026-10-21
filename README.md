@@ -21,6 +21,10 @@ outputs, retrospective analysis, and similarity checks.
     nearest-neighbour similarity analysis.
 -   Perform retrospective analysis of high-performing records.
 
+
+## Dataset Availability
+-    the dataset is made publicly available in Zenodo.
+-    DOI : [10.5281/zenodo.22245715](https://doi.org/10.5281/zenodo.22245715)
 ## Repository architecture
 
 ``` text
