@@ -28,7 +28,7 @@ outputs, retrospective analysis, and similarity checks.
 ## Repository architecture
 
 ``` text
-Hyperthermia/
+magnetic_hyperthermia/
 ├── Models/
 │   ├── CatBoost/
 │   │   ├── Hyperthermia_CB.ipynb
