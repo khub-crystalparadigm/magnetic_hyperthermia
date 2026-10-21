@@ -23,7 +23,7 @@ outputs, retrospective analysis, and similarity checks.
 
 
 ## Dataset Availability
--    the dataset is made publicly available in Zenodo.
+-    The dataset is made publicly available in Zenodo.
 -    DOI : [10.5281/zenodo.22245715](https://doi.org/10.5281/zenodo.22245715)
 ## Repository architecture
 
